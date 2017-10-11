@@ -1,0 +1,153 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 675M (ID=0x1212)
+    Vendor:   NVIDIA
+    VRAM:     1998 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\user\Desktop\UnityProject\roborobo\game\ROBOROBO_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\user\Desktop\UnityProject\roborobo\game\ROBOROBO_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Desktop\UnityProject\roborobo\game\ROBOROBO_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\user\Desktop\UnityProject\roborobo\game\ROBOROBO_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\user\Desktop\UnityProject\roborobo\game\ROBOROBO_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\user\Desktop\UnityProject\roborobo\game\ROBOROBO_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.044 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+Platform assembly: C:\Users\user\Desktop\UnityProject\roborobo\game\ROBOROBO_Data\Managed\System.Core.dll (this message is harmless)
+test
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+UnloadTime: 0.511444 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 449.
+Total: 1.397063 ms (FindLiveObjects: 0.038486 ms CreateObjectMapping: 0.020526 ms MarkObjects: 0.204834 ms  DeleteObjects: 0.014967 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+UnloadTime: 0.701739 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 454.
+Total: 0.508450 ms (FindLiveObjects: 0.013684 ms CreateObjectMapping: 0.008552 ms MarkObjects: 0.099209 ms  DeleteObjects: 0.002993 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+UnloadTime: 1.326077 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 454.
+Total: 1.296143 ms (FindLiveObjects: 0.037203 ms CreateObjectMapping: 0.021381 ms MarkObjects: 0.201413 ms  DeleteObjects: 0.007697 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+UnloadTime: 1.470188 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 455.
+Total: 1.325649 ms (FindLiveObjects: 0.036776 ms CreateObjectMapping: 0.021381 ms MarkObjects: 0.201840 ms  DeleteObjects: 0.007269 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+UnloadTime: 1.539036 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 455.
+Total: 1.324366 ms (FindLiveObjects: 0.041052 ms CreateObjectMapping: 0.022664 ms MarkObjects: 0.232202 ms  DeleteObjects: 0.007269 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+UnloadTime: 1.432129 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 455.
+Total: 1.320518 ms (FindLiveObjects: 0.038058 ms CreateObjectMapping: 0.022664 ms MarkObjects: 0.208682 ms  DeleteObjects: 0.007269 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+UnloadTime: 1.389794 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 454.
+Total: 1.306834 ms (FindLiveObjects: 0.038058 ms CreateObjectMapping: 0.024374 ms MarkObjects: 0.200130 ms  DeleteObjects: 0.007697 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+UnloadTime: 1.394070 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 455.
+Total: 1.335912 ms (FindLiveObjects: 0.035493 ms CreateObjectMapping: 0.023519 ms MarkObjects: 0.215097 ms  DeleteObjects: 0.007697 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+UnloadTime: 1.531766 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 454.
+Total: 1.317524 ms (FindLiveObjects: 0.036776 ms CreateObjectMapping: 0.024374 ms MarkObjects: 0.225788 ms  DeleteObjects: 0.007269 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+UnloadTime: 1.351307 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 455.
+Total: 1.225584 ms (FindLiveObjects: 0.036348 ms CreateObjectMapping: 0.022664 ms MarkObjects: 0.192433 ms  DeleteObjects: 0.006842 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+UnloadTime: 0.605094 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 455.
+Total: 0.522134 ms (FindLiveObjects: 0.014111 ms CreateObjectMapping: 0.009835 ms MarkObjects: 0.093650 ms  DeleteObjects: 0.002993 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+UnloadTime: 1.320518 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 454.
+Total: 1.311965 ms (FindLiveObjects: 0.035493 ms CreateObjectMapping: 0.025657 ms MarkObjects: 0.203123 ms  DeleteObjects: 0.007697 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+UnloadTime: 1.514661 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 454.
+Total: 1.330781 ms (FindLiveObjects: 0.041480 ms CreateObjectMapping: 0.026085 ms MarkObjects: 0.209538 ms  DeleteObjects: 0.007269 ms)
+
