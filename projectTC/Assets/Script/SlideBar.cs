@@ -1,4 +1,6 @@
-﻿using UnityEngine;
+// # Unused script
+
+using UnityEngine;
 using System.Collections;
 
 public class SlideBar : MonoBehaviour {
